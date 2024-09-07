@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Angelo
-and I am a BSc student with a strong passion for education!
+and I am a BSc student with a strong passion for ML!
 - 🎓 Current studying at Università Bocconi, focusing on Mathematical and Computing Science for AI
 - 🍀 Keep on dreaming!
 
